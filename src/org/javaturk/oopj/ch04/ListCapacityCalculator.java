@@ -3,14 +3,6 @@
  */
 package org.javaturk.oopj.ch04;
 
-/**
- * @author akin
- * 
- *         Calculates the new capacities until it passes 1000 of a list with a
- *         given capacity.
- * @see https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html
- *
- */
 public class ListCapacityCalculator {
 
 	public static void main(String[] args) {
