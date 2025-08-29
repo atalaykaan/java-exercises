@@ -1,0 +1,36 @@
+
+
+******************************
+package u.v;
+
+import x.y.B;
+
+public class A{
+  B b;
+}
+******************************
+package x.y;
+
+import t.s.C;
+
+public class B{
+
+    C c = new C();
+    
+}
+******************************
+package t.s;
+
+import m.n.D;
+
+public class C{
+
+    D d = new D();
+  
+}
+******************************
+package m.n;
+
+public class D{
+  
+}
